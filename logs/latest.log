@@ -1,0 +1,165 @@
+[22:34:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:34:17] [ServerMain/INFO]: Loaded 7 recipes
+[22:34:18] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[22:34:18] [Server thread/INFO]: Loading properties
+[22:34:18] [Server thread/INFO]: This server is running Purpur version git-Purpur-1985 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 6886272 on HEAD)
+[22:34:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:34:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:34:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[22:34:19] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[22:34:19] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[22:34:19] [Server thread/WARN]: [Pufferfish] If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[22:34:19] [Server thread/WARN]: [Pufferfish] Debug: Java: 17.0.10, test run: true
+[22:34:19] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:19] [Server thread/INFO]: Generating keypair
+[22:34:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:34:19] [Server thread/INFO]: Using default channel type
+[22:34:19] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[22:34:19] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[22:34:19] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
+[22:34:19] [Server thread/INFO]: [kotlin] Loading server plugin kotlin v1.6.10
+[22:34:19] [Server thread/INFO]: [nodes] Loading server plugin nodes v0.0.9
+[22:34:19] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.134
+[22:34:19] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[22:34:19] [Server thread/INFO]: [ports] Loading server plugin ports v0.0
+[22:34:19] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.5-873
+[22:34:19] [Server thread/INFO]: [dynmap] version=git-Purpur-1985 (MC: 1.19.4)
+[22:34:19] [Server thread/INFO]: [dynmap] Mod Support API available
+[22:34:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:34:19] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[22:34:20] [Server thread/INFO]: Preparing level "world"
+[22:34:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:34:20] [Server thread/INFO]: Time elapsed: 105 ms
+[22:34:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:34:20] [Server thread/INFO]: Time elapsed: 30 ms
+[22:34:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:34:20] [Server thread/INFO]: Time elapsed: 23 ms
+[22:34:20] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
+[22:34:21] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:34:21] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Legacy 1.8 Potion Meta Provider as the provider for PotionMetaProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[22:34:21] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[22:34:21] [Server thread/INFO]: [Essentials] Using locale pl_PL
+[22:34:21] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:34:22] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:34:22] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:34:22] [Server thread/INFO]: [kotlin] Enabling kotlin v1.6.10
+[22:34:22] [Server thread/INFO]: [nodes] Enabling nodes v0.0.9
+[22:34:22] [Server thread/INFO]: [nodes] Using Dynmap v3.5-873
+[22:34:22] [Server thread/INFO]: [nodes] Using ProtocolLib v5.3.0
+[22:34:22] [Server thread/INFO]: [nodes] Loading world from: plugins/nodes
+[22:34:22] [Server thread/INFO]: [nodes] - Resource Nodes: 0
+[22:34:22] [Server thread/INFO]: [nodes] - Territories: 3
+[22:34:22] [Server thread/INFO]: [nodes] - Residents: 1
+[22:34:22] [Server thread/INFO]: [nodes] - Towns: 0
+[22:34:22] [Server thread/INFO]: [nodes] - Nations: 0
+[22:34:22] [Server thread/INFO]: [nodes] Enabled in 328ms
+[22:34:22] [Server thread/INFO]: [nodes] now this is epic
+[22:34:22] [Server thread/INFO]: [spark] Enabling spark v1.10.134
+[22:34:22] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[22:34:22] [Server thread/INFO]: [spark] Starting background profiler...
+[22:34:22] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[22:34:22] [Server thread/INFO]: [ports] Enabling ports v0.0
+[22:34:22] [Server thread/INFO]: [ports] Reloaded
+[22:34:22] [Server thread/INFO]: [ports] Num ports: 4
+[22:34:22] [Server thread/INFO]: [ports] Num port groups: 2
+[22:34:22] [Server thread/INFO]: [ports] Enabled in 67ms
+[22:34:22] [Server thread/INFO]: [ports] now this is epic
+[22:34:22] [Server thread/INFO]: [dynmap] Enabling dynmap v3.5-873
+[22:34:23] [Server thread/INFO]: [dynmap] Added 19 custom biome mappings
+[22:34:23] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[22:34:23] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[22:34:23] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[22:34:26] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[22:34:26] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[22:34:26] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[22:34:26] [Server thread/INFO]: [dynmap] version 3.5-873 is enabled - core version 3.5-873
+[22:34:26] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[22:34:26] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[22:34:26] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[22:34:26] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 6345 pending tile renders for world 'world'
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 1600 pending tile renders for world 'world_nether'
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[22:34:26] [Server thread/INFO]: [dynmap] Loaded 1601 pending tile renders for world 'world_the_end'
+[22:34:26] [Server thread/INFO]: [dynmap] Enabled
+[22:34:26] [Server thread/INFO]: Running delayed init tasks
+[22:34:26] [Server thread/INFO]: Done (8.366s)! For help, type "help"
+[22:34:26] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Pobieranie informacji o wersji…
+[22:34:27] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Twoja wersja EssentialsX jest nieaktualna o 46 programistycznych wersji!
+[22:34:27] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Pobierz tutaj: https://essentialsx.net/downloads.html
+[22:34:27] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[22:35:52] [User Authenticator #0/INFO]: UUID of player krzychuPLzim is 4b03bfd2-87f7-4a7a-85d1-1db1ed82c8c3
+[22:35:52] [Server thread/INFO]: krzychuPLzim joined the game
+[22:35:52] [Server thread/INFO]: krzychuPLzim[/127.0.0.1:52411] logged in with entity id 128 at ([world]-540.9035072828779, 99.027003047536, 180.64133877425252)
+[22:36:04] [Server thread/INFO]: krzychuPLzim issued server command: /ports:
+[22:36:07] [Server thread/INFO]: krzychuPLzim issued server command: /port
+[22:36:14] [Server thread/INFO]: krzychuPLzim issued server command: /port list
+[22:36:26] [Server thread/INFO]: krzychuPLzim lost connection: Disconnected
+[22:36:26] [Server thread/INFO]: krzychuPLzim left the game
+[22:36:34] [Server thread/INFO]: Stopping the server
+[22:36:34] [Server thread/INFO]: Stopping server
+[22:36:34] [Server thread/INFO]: [dynmap] Disabling dynmap v3.5-873
+[22:36:34] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[22:36:34] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[22:36:34] [Server thread/INFO]: [dynmap] Saved 6525 pending tile renders in world 'world'
+[22:36:34] [Server thread/INFO]: [dynmap] Saved 1397 pending tile renders in world 'world_nether'
+[22:36:34] [Server thread/INFO]: [dynmap] Saved 1397 pending tile renders in world 'world_the_end'
+[22:36:34] [Server thread/INFO]: [dynmap] Disabled
+[22:36:34] [Server thread/INFO]: [ports] Disabling ports v0.0
+[22:36:34] [Server thread/INFO]: [ports] wtf i hate xeth now
+[22:36:34] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[22:36:34] [Server thread/INFO]: [spark] Disabling spark v1.10.134
+[22:36:34] [Server thread/INFO]: [nodes] Disabling nodes v0.0.9
+[22:36:34] [Server thread/INFO]: [nodes] wtf i hate xeth now
+[22:36:34] [Server thread/INFO]: [kotlin] Disabling kotlin v1.6.10
+[22:36:34] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+160-e2295c1
+[22:36:34] [Server thread/INFO]: Saving players
+[22:36:34] [Server thread/INFO]: Saving worlds
+[22:36:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:36:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:36:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:36:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:36:35] [Server thread/INFO]: [ChunkHolderManager] Saved 1249 block chunks, 988 entity chunks, 0 poi chunks in world 'world' in 1,52s
+[22:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:36:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0,40s
+[22:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:36:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:36:36] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0,09s
+[22:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:36:36] [Server thread/INFO]: Flushing Chunk IO
+[22:36:36] [Server thread/INFO]: Closing Thread Pool
+[22:36:36] [Server thread/INFO]: Closing Server
